@@ -1,0 +1,19 @@
+{
+  "name": "chained-promises",
+  "version": "1.0.0",
+  "description": "chained-promises experiments",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:Juraci/chained-promises.git"
+  },
+  "author": "Juraci Vieira",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
